@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![N55039's GitHub stats](https://github-readme-stats.vercel.app/api?username=N55039&theme=vue-dark&show_icons=true)](https://github.com/N55039/github-readme-stats)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N55039&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/N55039/github-readme-stats)
+<!-- [![N55039's GitHub stats](https://github-readme-stats.vercel.app/api?username=N55039&theme=vue-dark&show_icons=true)](https://github.com/N55039/github-readme-stats)
  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N55039&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/N55039/github-readme-stats)
+
 <!--
 **N55039/N55039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
