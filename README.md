@@ -1,11 +1,3 @@
-<p style="display: inline">
-<img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Visualstudiocode-007ACC.svg?logo=visualstudiocode&style=for-the-badge">
-</p>
 [![N55039's GitHub stats](https://github-readme-stats.vercel.app/api?username=N55039&theme=vue-dark&show_icons=true)](https://github.com/N55039/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N55039&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/N55039/github-readme-stats)
 
